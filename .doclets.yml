@@ -1,0 +1,4 @@
+files: index.js
+
+branches:
+    - add-doclets
